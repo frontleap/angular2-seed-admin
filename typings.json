@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "hammerjs": "github:DefinitelyTyped/DefinitelyTyped/hammerjs/hammerjs.d.ts#de8e80dfe5360fef44d00c41257d5ef37add000a",
+    "node": "registry:dt/node#6.0.0+20161121110008"
+  }
+}
